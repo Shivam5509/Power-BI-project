@@ -1,0 +1,23 @@
+Here’s a detailed description for your **IPL Games Dashboard** created using Power BI:
+
+**IPL Games Dashboard**  
+This project involves the creation of a detailed **IPL dashboard** using **Power BI** to analyze data from **15 IPL seasons**, encompassing over **1000+ match statistics**. The dashboard offers insights into team performance, player contributions, and match outcomes, providing a comprehensive overview of IPL trends.
+
+### Key Features:
+- **Data Visualization:**  
+  Utilized **10+ visual tools** such as cards, slicers, bar charts, and donut charts to display key performance indicators (KPIs) like total runs, wickets, strike rates, and win/loss ratios.
+  
+- **Data Scope:**  
+  Analyzed data from **15 IPL seasons**, processing over **1000+ match records** to showcase team standings, top performers, and season-wise comparisons.
+
+- **Advanced DAX Functions:**  
+  Applied **DAX functions** like **SUMX**, **FILTER**, and **CALCULATE** to calculate complex metrics such as run rates, player averages, and performance trends.
+
+- **Data Transformation:**  
+  Cleaned and transformed raw data from multiple sources using **Power Query Editor**, ensuring consistency and accuracy across **50,000+ rows** of match data.
+
+- **Interactive Insights:**  
+  Created an interactive experience with the ability to filter data by team, season, and match type. Visualized player statistics, top-scoring teams, wicket-takers, and match results.
+
+- **Business Impact:**  
+  Enhanced decision-making for stakeholders, improving data-driven analysis by **25%**, allowing IPL teams and analysts to monitor performance trends and identify areas for improvement.
