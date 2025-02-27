@@ -58,6 +58,37 @@ The **IPL Games Dashboard** is a comprehensive analysis tool built using **Power
 - Interactive filtering capabilities allow for detailed analysis by team, season, and player.
 - Enabled IPL teams and analysts to monitor performance and identify key trends to improve future strategies.
 
+# Olympics Games Analysis Dashboard
+
+## Overview
+The **Olympics Games Analysis Dashboard** is an interactive data visualization project built using **Power BI**. It provides in-depth insights into Olympic Games performances across various years, including medal counts, athlete achievements, and country-specific data. The dashboard allows users to explore data using intuitive visual tools, offering a comprehensive understanding of trends in the Olympic Games.
+
+## Key Features
+- **Data Visualization**:
+  - Visual tools such as bar charts, line charts, and maps to display medal counts, event-wise distribution, and athlete statistics.
+  - Slicers and filters to easily navigate between countries, sports, events, and years.
+  
+- **Data Insights**:
+  - Analyze performance across multiple Olympic seasons, identifying top-performing countries and athletes.
+  - Explore event-specific data, such as medal counts per sport, gender-based participation, and country dominance in particular disciplines.
+  
+- **Interactive Experience**:
+  - Users can interact with the dashboard to filter data by athlete, country, year, or event, providing dynamic insights for a better understanding of Olympic trends.
+  
+- **Powerful Reporting**:
+  - Historical comparisons of country rankings, top medal winners, and overall participation over time.
+  - Detailed drill-downs into individual athlete performances and their contributions to country rankings.
+
+## Tools & Technologies
+- **Power BI**
+- **Power Query Editor**
+- **DAX (Data Analysis Expressions)**
+
+## Dashboard Highlights
+- Tracks performance data across multiple Olympic seasons.
+- Provides detailed analysis of medals by country, event, and year.
+- Interactive slicers to filter data by sport, gender, athlete, and medal type.
+
 ## How to Use
 1. Clone the repository.
 2. Open the **.pbix** file in Power BI Desktop.
