@@ -1,0 +1,10 @@
+I created a comprehensive Power BI report for financial bank loan analysis, which is structured across three key pages: 
+a Summary, an Overview, and a Detailed Page. The report is designed to offer both high-level and granular insights into loan performance and trends.
+The Summary Page provides a snapshot of critical metrics through the use of cards that highlight key figures, such as total loans, loan amounts, 
+approval rates, and default rates. This page allows decision-makers to quickly gauge the overall performance at a glance.
+The Overview Page offers visual representations of loan data, utilizing bar charts and donut charts to display loan distributions, 
+approval rates, and category breakdowns. These visuals help in understanding the composition of loans across different segments, such as loan types, customer demographics, or regions.
+The Detailed Page allows for in-depth analysis, featuring interactive tables and slicers that enable users to filter and drill down into specific data points. 
+Stakeholders can explore loan performance metrics over time or compare different categories of loans to identify trends, outliers, and areas for improvement.
+Additionally, the report integrates page navigation features, enabling users to seamlessly switch between pages for a smooth analytical experience. 
+The use of slicers enhances interactivity, allowing users to customize views and focus on specific time frames, regions, or customer segments.
